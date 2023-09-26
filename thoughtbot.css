@@ -1,0 +1,89 @@
+nav{
+    background-color: black;
+    padding: 20px;
+    scroll-behavior: unset;
+}
+.b{
+    margin-left: 500px;
+    color: white;
+    margin-top: -30px;
+}
+.b a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.button{
+    margin-left: 1050px;
+    background-color: red;
+    color: white;
+    border: none;
+    margin-top: -100px;
+    padding: 10px;
+}
+#button{
+    margin-top: -50px;
+}
+#svg2{
+    margin-top: -60px;
+    margin-left: 1000px;
+
+}
+.b a:hover{
+    color: red;
+}
+main{
+    text-align: center;
+    font-size: 25px;
+    padding: 50px;
+    font-weight: 100;
+}
+main p{
+   padding: 15px; 
+   font-size: 20px;
+   }
+p a{
+    color: red;
+}
+.h4{
+    margin-left: 300px;
+    font-size: 30px;
+}
+.h4 p{
+    font-size: 20px;
+    font-weight: 200;
+}
+.h4 h3:hover{
+    color: red;
+}
+.f{
+    font-size: 20px;
+    margin-left: 300px;
+    text-decoration: none;
+    color: red;
+}
+a{
+    color: red;
+}
+.m{
+    margin-top: 30px;
+    margin-left: 600px;
+    font-size: 20px;
+}
+.n{
+    margin-left: 500px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.c{
+    padding: 15px;
+}
+.l{
+    padding: 15px;
+    background-color: red;
+    color: white;
+    border: none;
+    }
+    .z{
+        margin-top: 40px;
+    }
